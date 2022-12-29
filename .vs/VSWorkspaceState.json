@@ -3,14 +3,14 @@
     "",
     "\\app",
     "\\app\\Http",
-    "\\app\\Http\\Controllers",
-    "\\app\\Http\\Middleware",
-    "\\bootstrap",
     "\\config",
-    "\\database",
-    "\\database\\migrations",
-    "\\routes"
+    "\\routes",
+    "\\vendor",
+    "\\vendor\\fakerphp",
+    "\\vendor\\fakerphp\\faker",
+    "\\vendor\\fakerphp\\faker\\src",
+    "\\vendor\\fakerphp\\faker\\src\\Faker"
   ],
-  "SelectedNode": "\\app\\Http\\Controllers\\Controller.php",
+  "SelectedNode": "\\database\\seeders\\PeopleSeeder.php",
   "PreviewInSolutionExplorer": false
 }
